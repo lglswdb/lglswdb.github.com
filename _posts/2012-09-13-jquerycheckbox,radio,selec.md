@@ -1,3 +1,4 @@
+#encoding:utf-8
 ---
 layout: post
 title: jquery操作checkbox,radio,select的简单总结
