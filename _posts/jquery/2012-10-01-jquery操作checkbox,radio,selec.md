@@ -1,6 +1,8 @@
 ---
 layout: post
-tags: ["原创","前端技术","jquery"]
+title: 试试
+category: jquery
+tags: [原创,前端技术,jquery]
 ---
 
 jquery对多选按钮(checkbox),单选按钮(radio),下拉选择框(select)的操作经常会遗忘，故在此对常用操作做一个总结,以便在使用时能及时查询。 
