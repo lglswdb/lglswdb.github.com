@@ -1,11 +1,8 @@
 ---
 layout: post
-title: jquery操作checkbox,radio,select的简单总结
-category: jquery
+title: jquery checkbox,radio,select operator
 tags: ["原创","前端技术","jquery"]
 ---
-
-{% include JB/setup %}
 
 jquery对多选按钮(checkbox),单选按钮(radio),下拉选择框(select)的操作经常会遗忘，故在此对常用操作做一个总结,以便在使用时能及时查询。 
 
