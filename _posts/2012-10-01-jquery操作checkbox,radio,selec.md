@@ -1,6 +1,5 @@
 ---
 layout: post
-title: jquery checkbox,radio,select operator
 tags: ["原创","前端技术","jquery"]
 ---
 
