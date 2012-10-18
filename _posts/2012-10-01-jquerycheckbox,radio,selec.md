@@ -1,24 +1,24 @@
 ---
 layout: post
-title: jqueryæ“ä½œcheckbox,radio,selectçš„ç®€å•æ€»ç»“
+title: jquery²Ù×÷checkbox,radio,selectµÄ¼òµ¥×Ü½á
 category: jquery
-tags: ["åŸåˆ›","å‰ç«¯æŠ€æœ¯","jquery"]
+tags: ["Ô­´´","Ç°¶Ë¼¼Êõ","jquery"]
 ---
 
-jqueryå¯¹å¤šé€‰æŒ‰é’®(checkbox),å•é€‰æŒ‰é’®(radio),ä¸‹æ‹‰é€‰æ‹©æ¡†(select)çš„æ“ä½œç»å¸¸ä¼šé—å¿˜ï¼Œæ•…åœ¨æ­¤å¯¹å¸¸ç”¨æ“ä½œåšä¸€ä¸ªæ€»ç»“,ä»¥ä¾¿åœ¨ä½¿ç”¨æ—¶èƒ½åŠæ—¶æŸ¥è¯¢ã€‚ 
+jquery¶Ô¶àÑ¡°´Å¥(checkbox),µ¥Ñ¡°´Å¥(radio),ÏÂÀ­Ñ¡Ôñ¿ò(select)µÄ²Ù×÷¾­³£»áÒÅÍü£¬¹ÊÔÚ´Ë¶Ô³£ÓÃ²Ù×÷×öÒ»¸ö×Ü½á,ÒÔ±ãÔÚÊ¹ÓÃÊ±ÄÜ¼°Ê±²éÑ¯¡£ 
 
-- **jqueryæ“ä½œcheckbox**  
-    1. è·å–å·²é€‰æ‹©çš„checkboxå¯¹è±¡    `var jqobj = $("input[name=xxx]:checked");`  
-    2. è®¾å®šæŸæŒ‰é’®ä¸ºé€‰ä¸­çŠ¶æ€    `$("#xxx").attr("check",true);`   
+- **jquery²Ù×÷checkbox**  
+    1. »ñÈ¡ÒÑÑ¡ÔñµÄcheckbox¶ÔÏó    `var jqobj = $("input[name=xxx]:checked");`  
+    2. Éè¶¨Ä³°´Å¥ÎªÑ¡ÖĞ×´Ì¬    `$("#xxx").attr("check",true);`   
     
-- **jqueryæ“ä½œradio**     
-    1. è·å–å·²é€‰æ‹©çš„radioå¯¹è±¡     `var jqobj = $("input[name=xxx]:checked");`  
-    2. è®¾å®šæŸæŒ‰é’®ä¸ºé€‰ä¸­çŠ¶æ€    `$("#xxx").attr("check",true);`  
+- **jquery²Ù×÷radio**     
+    1. »ñÈ¡ÒÑÑ¡ÔñµÄradio¶ÔÏó     `var jqobj = $("input[name=xxx]:checked");`  
+    2. Éè¶¨Ä³°´Å¥ÎªÑ¡ÖĞ×´Ì¬    `$("#xxx").attr("check",true);`  
     
     
-- **jqueryæ“ä½œselect**
-    1. è·å–å·²é€‰æ‹©çš„ä¸‹æ‹‰æ¡†çš„å€¼   `var selval = $("select[name=xxx]").val();`  
-        æ³¨ï¼šæ­¤æ–¹æ³•åœ¨Chromeä¸­æœ‰é—®é¢˜æœ€å¥½é‡‡ç”¨$("option:selected").val()çš„æ–¹å¼æ¥è·å–å·²ç»é€‰æ‹©çš„å€¼ã€‚  
-    2. é€‰æ‹©æŸä¸‹æ‹‰é€‰é¡¹    `$("option").attr("select",true);`    
+- **jquery²Ù×÷select**
+    1. »ñÈ¡ÒÑÑ¡ÔñµÄÏÂÀ­¿òµÄÖµ   `var selval = $("select[name=xxx]").val();`  
+        ×¢£º´Ë·½·¨ÔÚChromeÖĞÓĞÎÊÌâ×îºÃ²ÉÓÃ$("option:selected").val()µÄ·½Ê½À´»ñÈ¡ÒÑ¾­Ñ¡ÔñµÄÖµ¡£  
+    2. Ñ¡ÔñÄ³ÏÂÀ­Ñ¡Ïî    `$("option").attr("select",true);`    
     
     
