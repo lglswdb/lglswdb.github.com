@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在window平台上利用jekyll在github上搭建博客站点
-tags : [website,网站,jekyll,github]
+tags : [website, 网站, jekyll, github]
 categories: [website]
 ---
 
