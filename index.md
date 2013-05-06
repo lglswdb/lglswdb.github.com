@@ -1,6 +1,6 @@
 ---
 layout: page
-title: lglspace文章列表
+title: lglswdb文章列表
 ---
 {% include JB/setup %}
 
